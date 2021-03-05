@@ -13,7 +13,9 @@ namespace Assignments
 
         public static int MyMethod()
         {
-            int var2 = 12345;
+            //int var2 = 12345;
+
+            //this is a new line for the second assignment
 
             return var2;
         }
