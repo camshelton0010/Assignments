@@ -1,0 +1,12 @@
+/Users/killacam96/Desktop/Assignments/Assignments/Assignments/bin/Debug/netcoreapp3.1/Assignments.deps.json
+/Users/killacam96/Desktop/Assignments/Assignments/Assignments/bin/Debug/netcoreapp3.1/Assignments.runtimeconfig.json
+/Users/killacam96/Desktop/Assignments/Assignments/Assignments/bin/Debug/netcoreapp3.1/Assignments.runtimeconfig.dev.json
+/Users/killacam96/Desktop/Assignments/Assignments/Assignments/bin/Debug/netcoreapp3.1/Assignments.dll
+/Users/killacam96/Desktop/Assignments/Assignments/Assignments/bin/Debug/netcoreapp3.1/Assignments.pdb
+/Users/killacam96/Desktop/Assignments/Assignments/Assignments/obj/Debug/netcoreapp3.1/Assignments.csprojAssemblyReference.cache
+/Users/killacam96/Desktop/Assignments/Assignments/Assignments/obj/Debug/netcoreapp3.1/Assignments.AssemblyInfoInputs.cache
+/Users/killacam96/Desktop/Assignments/Assignments/Assignments/obj/Debug/netcoreapp3.1/Assignments.AssemblyInfo.cs
+/Users/killacam96/Desktop/Assignments/Assignments/Assignments/obj/Debug/netcoreapp3.1/Assignments.csproj.CoreCompileInputs.cache
+/Users/killacam96/Desktop/Assignments/Assignments/Assignments/obj/Debug/netcoreapp3.1/Assignments.dll
+/Users/killacam96/Desktop/Assignments/Assignments/Assignments/obj/Debug/netcoreapp3.1/Assignments.pdb
+/Users/killacam96/Desktop/Assignments/Assignments/Assignments/obj/Debug/netcoreapp3.1/Assignments.genruntimeconfig.cache
